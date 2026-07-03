@@ -6,6 +6,8 @@
         <section class="about-me">
             <h1>Efe Bekteş</h1>
             <p>Hello! I am a computer engineering student at ITU with a strong interest in cryptography and programming.</p>
+                        <p>Official account for University & Academic Collabaration.</p>
+
         </section>
         <section class="nav-link">
             <button onclick="alert('Game link placeholder. Coming soon!')">Go to Word Prediction Game</button>
